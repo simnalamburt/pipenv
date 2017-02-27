@@ -2,6 +2,7 @@
 import os
 import tempfile
 
+import crayons
 import parse
 import requests
 import requirements
